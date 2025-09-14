@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Diego Santos
 
-# Your Github username
+# Diegotron456
 
 # List the things you added for points
